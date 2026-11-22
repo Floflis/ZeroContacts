@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title">
+  <title id="title">ZeroContacts mark</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b6a0ff"/><stop offset=".55" stop-color="#806de0"/><stop offset="1" stop-color="#55c8dc"/></linearGradient></defs>
+  <path d="M50 5 88 27v46L50 95 12 73V27L50 5Z" fill="none" stroke="url(#g)" stroke-width="7" stroke-linejoin="round"/>
+  <circle cx="50" cy="50" r="12" fill="url(#g)"/>
+  <path d="M50 18v19M78 34 61 44M78 66 61 56M50 82V63M22 66l17-10M22 34l17 10" stroke="url(#g)" stroke-width="5" stroke-linecap="round"/>
+</svg>
